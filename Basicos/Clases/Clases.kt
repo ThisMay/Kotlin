@@ -1,5 +1,3 @@
-package `clases y propiedades`
-
 /**
  * Created by root on 11/07/17.
  */

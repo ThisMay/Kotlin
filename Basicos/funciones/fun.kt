@@ -1,4 +1,4 @@
-package persona
+package funciones
 
 /**
  * Created by root on 11/07/17.
